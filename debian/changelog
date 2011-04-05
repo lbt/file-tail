@@ -1,10 +1,16 @@
-file-tail (1.0.5-2) unstable; urgency=low
+ruby-file-tail (1.0.5-3) unstable; urgency=low
+
+  * Update gem2deb
+
+ -- David Greaves <david@dgreaves.com>  Tue, 05 Apr 2011 22:54:39 +0100
+
+ruby-file-tail (1.0.5-2) unstable; urgency=low
 
   * Added ruby-spruz as a dependency
 
  -- David Greaves <david@dgreaves.com>  Mon, 28 Mar 2011 12:16:36 +0100
 
-file-tail (1.0.5-1) UNRELEASED; urgency=low
+ruby-file-tail (1.0.5-1) UNRELEASED; urgency=low
 
   * Initial release based on gem2deb
 
